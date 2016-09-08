@@ -1,0 +1,2 @@
+# Online-Fir
+The centralized crime record management system applies to all police station and headquarters all across the country and specifically looks into the detection of suspects, criminal’s previous crimes and records. This is a centralized system which means if any crime takes place in any city of any state in India then police can search the database for suspects not only related to their states but also of other states.
